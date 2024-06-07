@@ -8,6 +8,10 @@ Bu proje, gerçek zamanlı kamera görüntüsünden kişinin yaptığı egzersiz
 
 Bu projede kullanılan egzersiz görüntüleri Kaggle'dan indirilmiştir. Kaggle'daki veri kümesine [bu bağlantıdan](https://www.kaggle.com/datasets/hasyimabdillah/workoutexercises-images) erişebilirsiniz. Kaggle veri kümesini indirdikten sonra, `workout_data` adında bir klasör oluşturun ve indirdiğiniz dosyayı bu klasöre çıkarın.
 
+##Model
+
+Bu projeyi çalıştırmak için ilk önce drivea modelimiz olan workout_model.keras 'ı [bu bağlantıdan](https://drive.google.com/drive/folders/1i6ZR8i75aOwbse5pppSYvbyyFlWaZKz1?usp=sharing) indirip projedeki models klasörünün içine atınız.
+
 ## Kurulum
 
 Proje klasörünü bilgisayarınıza klonlayın veya indirin. Ardından, aşağıdaki komutu kullanarak gerekli Python paketlerini yükleyin:
