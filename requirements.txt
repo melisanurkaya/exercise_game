@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+tensorflow
+keras
+flask
+flask-cors
